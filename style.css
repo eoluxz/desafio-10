@@ -1,0 +1,35 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 10px;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.link {
+    color: white;
+}
+
+.title {
+    color: black;
+    display: flex;
+    padding: 40px;
+    position: relative;
+}
+.paragrafo {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    font-size: 20px;
+    padding-top: 60px;
+}
+
+.img {
+    width: 400px;
+    height: 200px;
+}
+
